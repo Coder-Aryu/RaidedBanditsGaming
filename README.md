@@ -1,6 +1,6 @@
 - 👋 Hi, I’m FalconWasTaken
 - 👀 I’m interested in animation,thumbnail making,drawing etc.
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning JavaScript
 - 📫 You can contact me on discord: Falconwastaken#0387
 
 <!---
